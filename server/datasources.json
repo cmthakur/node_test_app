@@ -1,6 +1,7 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
+  "mongodb": {
+    "name": "mongodb",
+    "connector": "mongodb",
+    "user": "root"
   }
 }
